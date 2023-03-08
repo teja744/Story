@@ -1,0 +1,2 @@
+#include<stdio.h>
+This is just reference for add,commit,status.log
